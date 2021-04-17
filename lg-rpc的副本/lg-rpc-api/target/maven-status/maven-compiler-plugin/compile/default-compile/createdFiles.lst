@@ -1,0 +1,5 @@
+com/lagou/rpc/common/RpcRequest.class
+com/lagou/rpc/common/RpcResponse.class
+com/lagou/rpc/pojo/User.class
+com/lagou/rpc/api/IUserService.class
+com/lagou/rpc/anno/SimpleClient.class
